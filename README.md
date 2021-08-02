@@ -54,6 +54,6 @@ Você pode visualizar o layout do projeto através do link abaixo:
 Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com "Figma").
 
 <h2>📝 License</h2>
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/nlw-06-reactjs/blob/master/LICENSE.md) para mais detalhes.
 
 Feito com 💜 by Rocketseat 👋🏻 Participe da nossa comunidade
