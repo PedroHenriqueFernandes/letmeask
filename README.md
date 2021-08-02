@@ -12,7 +12,7 @@
   <img src="https://github.com/PedroHenriqueFernandes/letmeask/blob/main/src/assets/images/screenshot.png" />
 </p>
 
-<h2>[Link](https://letmeask-pedrofernandes.web.app "Link do site")</h2>
+[Link](https://letmeask-pedrofernandes.web.app "Link do site")
 
 <h2>🧪 Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
