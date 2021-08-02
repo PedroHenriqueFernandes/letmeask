@@ -2,7 +2,7 @@
   <img src="https://github.com/PedroHenriqueFernandes/letmeask/blob/main/src/assets/images/logo.svg" />
 </p>
 
-NLW Together 06 Stars License
+<h1>NLW Together 06 Stars License</h1>
 
 🧪 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
