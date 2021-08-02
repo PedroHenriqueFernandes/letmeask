@@ -9,9 +9,9 @@
 <h2>🧪 Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-  > React
-  > Firebase
-  > TypeScript
+* React
+* Firebase
+* TypeScript
   
 <h2>🚀 Como executar</h2>
 Clone o projeto e acesse a pasta do mesmo.
@@ -42,8 +42,8 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
 <h2>🔖 Layout</h2>
 Você pode visualizar o layout do projeto através do link abaixo:
 
-Layout Web
-Lembrando que você precisa ter uma conta no Figma.
+* ![Figma](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1 "Layout Web") 
+Lembrando que você precisa ter uma conta no "[Figma](https://www.figma.com "Figma").
 
 <h2>📝 License</h2>
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
