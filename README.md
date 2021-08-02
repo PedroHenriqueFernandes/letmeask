@@ -1,4 +1,4 @@
-Letmeask
+![Alt text](https://github.com/PedroHenriqueFernandes/letmeask/blob/main/src/assets/images/logo.svg "logo")
 
 NLW Together 06 Stars License
 
