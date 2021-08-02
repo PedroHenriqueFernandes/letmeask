@@ -42,7 +42,7 @@ Este é um projeto desenvolvido durante a Next Level Week Together, apresentada 
 <h2>🔖 Layout</h2>
 Você pode visualizar o layout do projeto através do link abaixo:
 
-* ![Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1 "Layout Web") 
+* [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1 "Layout Web") 
 Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com "Figma").
 
 <h2>📝 License</h2>
