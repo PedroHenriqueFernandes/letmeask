@@ -2,8 +2,6 @@ Letmeask
 
 NLW Together 06 Stars License
 
-Letmeask
-
 🧪 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
