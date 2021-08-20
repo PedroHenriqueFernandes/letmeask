@@ -56,4 +56,4 @@ Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com "Figm
 <h2>📝 License</h2>
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/nlw-06-reactjs/blob/master/LICENSE.md "LICENSE") para mais detalhes.
 
-Feito com 💜 by Rocketseat 👋🏻 Participe da nossa comunidade
+Feito junto com a Rocketseat 👋🏻 Participe da nossa comunidade
