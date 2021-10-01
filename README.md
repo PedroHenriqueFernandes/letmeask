@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://github.com/PedroHenriqueFernandes/letmeask/blob/main/src/assets/images/logo.svg" />
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"> 
+  <img src="https://camo.githubusercontent.com/817ba52ec6ada583ac3dd92266ed934824b85a06c027cdb85526fda41f4c6d64/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d4e4c57266d6573736167653d303626636f6c6f723d383235374535266c6162656c436f6c6f723d303030303030">
+  <img src="https://camo.githubusercontent.com/44c6816fb8a9ba2852c6d1dc8f38260a88912099e85ac5da22c66cffa9d74bd1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f726f636b6574736561742d656475636174696f6e2f6e6c772d30362d72656163746a733f6c6162656c3d7374617273266d6573736167653d4d495426636f6c6f723d383235374535266c6162656c436f6c6f723d303030303030">
+  <img src="https://camo.githubusercontent.com/45d862ef64a7b27d57a2c0f741e005d2664bf4099a4fa4a7af23a7483f3f4376/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d4d495426636f6c6f723d383235374535266c6162656c436f6c6f723d303030303030">
+</p>
 
-## Available Scripts
+<p align="center">
+  <img src="https://github.com/PedroHenriqueFernandes/letmeask/blob/main/src/assets/images/screenshot.png" />
+</p>
 
-In the project directory, you can run:
+[Link do site!](https://letmeask-pedrofernandes.web.app "Link do site")
 
-### `yarn start`
+<h2>🧪 Tecnologias</h2>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* React
+* Firebase
+* TypeScript
+  
+<h2>🚀 Como executar</h2>
+Clone o projeto e acesse a pasta do mesmo.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
+$ cd nlw-06-reactjs
+```
 
-### `yarn test`
+Para iniciá-lo, siga os passos abaixo:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+# Instalar as dependências
+$ yarn
 
-### `yarn build`
+# Iniciar o projeto
+$ yarn start
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Lembrando que será necessário criar uma conta no Firebase e um projeto para disponibilizar um Realtime Database.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2>💻 Projeto</h2>
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Este é um projeto desenvolvido durante a Next Level Week Together, apresentada dos dias 20 a 27 de Junho de 2021.
 
-### `yarn eject`
+<h2>🔖 Layout</h2>
+Você pode visualizar o layout do projeto através do link abaixo:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [Layout Web](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1 "Layout Web") 
+Lembrando que você precisa ter uma conta no [Figma](https://www.figma.com "Figma").
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h2>📝 License</h2>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/nlw-06-reactjs/blob/master/LICENSE.md "LICENSE") para mais detalhes.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito junto com a Rocketseat 👋🏻 Participe da nossa comunidade
