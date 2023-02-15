@@ -25,8 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/PedroHenriqueFernandes/letmeask.git
+$ cd letmeask
 ```
 
 Para iniciá-lo, siga os passos abaixo:
